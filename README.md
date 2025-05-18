@@ -16,16 +16,16 @@ All data structures are implemented using C++ Templates to allow usage with mult
 ## 📂 Data Structures Implemented
 • Singly Linear Linked List
 
-   • `InsertFirst` ,
-     `InsertLast` ,
-     `InsertAtPos` 
+&nbsp;&nbsp;&nbsp;&nbsp;• `InsertFirst` ,
+&nbsp;&nbsp;&nbsp;&nbsp;`InsertLast` ,
+&nbsp;&nbsp;&nbsp;&nbsp;`InsertAtPos` 
    
-   • `DeleteFirst` ,
-     `DeleteLast` ,
-     `DeleteAtPos` 
+&nbsp;&nbsp;&nbsp;&nbsp;• `DeleteFirst` ,
+&nbsp;&nbsp;&nbsp;&nbsp;`DeleteLast` ,
+&nbsp;&nbsp;&nbsp;&nbsp;`DeleteAtPos` 
    
-   • `Display`,
-     `Count`
+&nbsp;&nbsp;&nbsp;&nbsp;• `Display`,
+&nbsp;&nbsp;&nbsp;&nbsp;`Count`
 
 • Doubly Linear Linked List
 
