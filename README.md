@@ -14,32 +14,33 @@ All data structures are implemented using C++ Templates to allow usage with mult
 
 
 ## 📂 Data Structures Implemented
-• Singly Linear Linked List
 
-&nbsp;&nbsp;&nbsp;&nbsp;• `InsertFirst` ,
-&nbsp;&nbsp;&nbsp;&nbsp;`InsertLast` ,
-&nbsp;&nbsp;&nbsp;&nbsp;`InsertAtPos` 
+• Singly Linear Linked List :
+
+&nbsp;&nbsp;&nbsp;&nbsp; • `InsertFirst` ,
+&nbsp;&nbsp;&nbsp;&nbsp; `InsertLast` ,
+&nbsp;&nbsp;&nbsp;&nbsp; `InsertAtPos` 
    
-&nbsp;&nbsp;&nbsp;&nbsp;• `DeleteFirst` ,
-&nbsp;&nbsp;&nbsp;&nbsp;`DeleteLast` ,
-&nbsp;&nbsp;&nbsp;&nbsp;`DeleteAtPos` 
+&nbsp;&nbsp;&nbsp;&nbsp; • `DeleteFirst` ,
+&nbsp;&nbsp;&nbsp;&nbsp; `DeleteLast` ,
+&nbsp;&nbsp;&nbsp;&nbsp; `DeleteAtPos` 
    
-&nbsp;&nbsp;&nbsp;&nbsp;• `Display`,
-&nbsp;&nbsp;&nbsp;&nbsp;`Count`
+&nbsp;&nbsp;&nbsp;&nbsp; • `Display`,
+&nbsp;&nbsp;&nbsp;&nbsp; `Count`
 
-• Doubly Linear Linked List
+• Doubly Linear Linked List :
 
-   • Bi-directional traversal
+&nbsp;&nbsp;&nbsp;&nbsp;• Bi-directional traversal
 
-   • Same functionalities as singly linear
+&nbsp;&nbsp;&nbsp;&nbsp;• Same functionalities as singly linear
 
-• Singly Circular Linked List
+• Singly Circular Linked List :
 
-   • Circular links using Last->next = First
+&nbsp;&nbsp;&nbsp;&nbsp;• Circular links using Last->next = First
 
-• Doubly Circular Linked List
+• Doubly Circular Linked List :
 
-   • Full circular doubly-linked implementation
+&nbsp;&nbsp;&nbsp;&nbsp;• Full circular doubly-linked implementation
 
 ## 🚀 Features
 
