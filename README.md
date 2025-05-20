@@ -36,7 +36,7 @@ All data structures are implemented using C++ Templates to allow usage with mult
 
 • Singly Circular Linked List :
 
-&nbsp;&nbsp;&nbsp;&nbsp;• Circular links using Last->next = First
+&nbsp;&nbsp;&nbsp;&nbsp;• Circular links using &nbsp;&nbsp;&nbsp;&nbsp; Last->next = First
 
 • Doubly Circular Linked List :
 
